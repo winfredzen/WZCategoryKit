@@ -1,0 +1,16 @@
+PODS:
+  - WZCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - WZCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  WZCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WZCategoryKit: 2b6e2198121c86a9532a60efc03beced857990b8
+
+PODFILE CHECKSUM: 4849652000ec0b245088fe885001eeda9dfbf92d
+
+COCOAPODS: 1.5.3
